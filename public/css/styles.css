@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #497174;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #D6E4E5;
+}
+
+.input-field-spacing {
+  margin-bottom: 5px;
+}
+
+.rounded-border {
+  border-radius: 30px;
+}
+.signup-form {
+  width: 100%;
+  max-width: 450px;
+  padding: 15px;
+  margin: auto;
+}
